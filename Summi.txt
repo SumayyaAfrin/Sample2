@@ -1,3 +1,7 @@
 Hello World!!
 This world really scares me everytime.
+<<<<<<< HEAD
  I really my school.
+=======
+
+>>>>>>> feature

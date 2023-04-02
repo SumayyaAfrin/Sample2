@@ -1,13 +1,16 @@
 I love reading books
 Reading books can improve our knowledge.
 It helps to be in a fictional world.
-<<<<<<< HEAD
+
 
 Hello people.
 I'm feeling sleepy today.
 
-=======
 Friendship is a great virtue 
 
-CHAL CHAL CHALO...
->>>>>>> feature
+CHAL CHAL CHALO
+
+HMMM
+
+
+
